@@ -29,7 +29,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lickm3&show_icons=true&theme=dark&text_color=ee00ff&locale=en&layout=compact" alt="lickm3" /></p><br><br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lickm3&show_icons=true&theme=dark&text_color=ee00ff&locale=en" alt="lickm3" /></p><br><br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lickm3&show_icons=true&theme=dark&text_color=ee00ff&locale=en" alt="lickm3" /></p><br>
 
 
 <h3 align="left">Support:</h3>
