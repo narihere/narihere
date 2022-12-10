@@ -29,6 +29,6 @@
 <p><a href="https://ko-fi.com/lickm3"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="lickm3" /></a></p><br><br><br>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lickm3&show_icons=true&theme=dark&text_color=ee00ff&locale=en&layout=compact" alt="lickm3" /></p><br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lickm3&show_icons=true&theme=dark&text_color=ee00ff&locale=en&layout=compact" alt="lickm3" /></p><br><br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lickm3&show_icons=true&theme=dark&text_color=ee00ff&locale=en" alt="lickm3" /></p>
