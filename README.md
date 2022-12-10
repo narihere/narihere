@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Java, Kotlin**
 
-- 👨‍💻 All of my projects are available at [https://jwd.lol/](https://jwd.lol/)
+- 👨‍💻 All of my projects are available at [https://jwd.lol/](https://czdevs.online/lickm3)
 
 - 💬 Ask me about **NodeJS, PHP, HTML5, CSS3, MySQL, JavaScript, TypeScript, C#, C**
 
