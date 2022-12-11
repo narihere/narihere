@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **NodeJS, PHP, HTML5, CSS3, MySQL, JavaScript, TypeScript, C#, C**
 
-- 🟦 How to reach me **Shimika#9999**
+- 🟦 How to reach me **stillLickM3#9999**
 
 - ⚡ Fun fact **I love cats :)**
 
