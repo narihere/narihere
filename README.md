@@ -3,15 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lickm3&label=Profile%20views&color=ee00ff&style=flat" alt="lickm3" /> </p>
 
-- 🧩 I’m currently working on [Midecon II](https://discord.gg/HADb6M7kAd)
-
 - 🌱 I’m currently learning **Java, Kotlin**
 
-- 👨‍💻 All of my projects are available at [https://czdevs.online/lickm3](https://czdevs.online/lickm3)
+- 👨‍💻 All of my projects are available at [l-3.bio](https://l-3.bio/)
 
 - 💬 Ask me about **NodeJS, PHP, HTML5, CSS3, MySQL, JavaScript, TypeScript, C#, C**
 
-- 🟦 How to reach me **stillLickM3#9999**
+- 🟦 How to reach me **Discord: lickm3**
 
 - ⚡ Fun fact **I love cats :)**
 
